@@ -1,0 +1,11 @@
+[11088:5860:1114/133644.328:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[11088:18784:1114/133644.397:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[11088:5860:1114/133644.456:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14872:3860:1114/133704.002:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14872:3860:1114/133704.154:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11088:5428:1114/133704.305:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14872:3860:1114/133716.604:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[14872:3860:1114/133729.137:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[11088:5860:1114/172429.571:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[11088:5860:1114/172429.571:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[11088:5860:1114/231103.607:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

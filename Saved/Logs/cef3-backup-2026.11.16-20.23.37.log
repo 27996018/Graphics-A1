@@ -1,0 +1,53 @@
+[12484:10040:1116/095554.676:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12484:7184:1116/095554.733:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12484:10040:1116/095554.751:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7024:5820:1116/095612.283:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/095612.309:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:5820:1116/095622.216:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:5820:1116/095632.058:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:12480:1116/142916.247:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/142916.251:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:10040:1116/142926.976:ERROR:device_event_log_impl.cc(196)] [14:29:26.678] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7024:5820:1116/142929.679:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/142930.326:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/142944.432:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/142956.311:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:6208:1116/143110.541:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/143110.547:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:5820:1116/143124.413:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/143124.982:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:5820:1116/143137.751:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/143150.053:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:6208:1116/143521.025:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/143521.032:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:5820:1116/143534.645:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/143535.328:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/143547.314:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/143557.646:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:12480:1116/144150.727:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/144150.741:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:6208:1116/144155.750:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/144155.750:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:5820:1116/144205.316:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:5820:1116/144206.105:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7024:5820:1116/144221.351:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/144233.093:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:12480:1116/144325.731:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:9036:1116/144325.735:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:5820:1116/144339.316:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/144340.102:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/144353.424:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/144407.337:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12484:10040:1116/155056.921:ERROR:menu_runner_views_aura.cc(24)] Window handle is required for default OSR context menu.
+[12484:10040:1116/155056.921:ERROR:menu_manager.cc(198)] Default context menu implementation is not available; canceling the menu
+[12484:16048:1116/163529.159:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12484:16048:1116/185312.713:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[12484:7184:1116/192447.395:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[7024:12480:1116/192447.401:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[12484:10040:1116/192459.242:ERROR:device_event_log_impl.cc(196)] [19:24:59.052] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7024:5820:1116/192500.580:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/192501.335:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12484:16048:1116/192503.605:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7024:5820:1116/192511.688:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7024:5820:1116/192526.924:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[12484:10040:1116/202337.452:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

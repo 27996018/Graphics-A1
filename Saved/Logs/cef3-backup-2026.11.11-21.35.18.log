@@ -1,0 +1,10 @@
+[6960:10644:1111/173114.117:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[6960:8632:1111/173114.172:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[6960:10644:1111/173114.199:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[6892:11408:1111/173132.218:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6892:11408:1111/173132.252:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6960:11072:1111/173132.349:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6892:11408:1111/173140.298:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[6892:11408:1111/173150.068:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[6960:11072:1111/203531.647:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[6960:10644:1111/213518.038:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

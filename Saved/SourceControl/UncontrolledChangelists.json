@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BPI_Interactable.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BP_Powerterminal.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BP_SecurityDoor.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/Level.umap",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/interface1.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BP_Gates.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BP_SDOffice.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/BP_SecurityDoorsOffice.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/Blockout.uasset",
+				"C:/Users/Piotr Montgomery/Documents/Unreal Projects/CGP3018A127996018/Content/FirstPerson/Blueprints/BP_SecurityDoor.uasset"
+			]
+		}
+	]
+}

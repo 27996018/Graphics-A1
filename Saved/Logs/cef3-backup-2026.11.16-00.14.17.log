@@ -1,0 +1,12 @@
+[7180:18244:1115/154544.620:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[7180:6412:1115/154544.674:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[7180:18244:1115/154544.693:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17100:6016:1115/154558.785:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 1
+[17100:6016:1115/154600.617:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17100:6016:1115/154600.643:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7180:14380:1115/154600.715:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[17100:6016:1115/154608.413:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[17100:6016:1115/154616.398:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7180:14380:1115/182914.388:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7180:14380:1115/224200.010:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[7180:18244:1116/001417.825:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
